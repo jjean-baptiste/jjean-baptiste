@@ -3,12 +3,12 @@
 Cybersecurity professional with experience in Governance, Risk, and Compliance (GRC) and vulnerability management within healthcare environments. Skilled in risk assessments, vulnerability remediation, policy development, and aligning security controls with regulatory frameworks such as HIPAA, NIST, and ISO 27001. Adept at collaborating with technical and non-technical stakeholders to reduce risk, strengthen security posture, and support patient data confidentiality, integrity, and availability. hbg
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects ⚠️
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations 🚨
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
