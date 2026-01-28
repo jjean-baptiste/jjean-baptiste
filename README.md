@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jeremy-baptiste-69b1372">Jeremy Jean-Baptiste</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes! hbg
+Cybersecurity professional with experience in Governance, Risk, and Compliance (GRC) and vulnerability management within healthcare environments. Skilled in risk assessments, vulnerability remediation, policy development, and aligning security controls with regulatory frameworks such as HIPAA, NIST, and ISO 27001. Adept at collaborating with technical and non-technical stakeholders to reduce risk, strengthen security posture, and support patient data confidentiality, integrity, and availability. hbg
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -21,10 +21,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+
+[linkedin]: https://linkedin.com/in/jeremy-baptiste-69b137233
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
