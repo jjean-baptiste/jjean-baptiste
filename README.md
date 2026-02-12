@@ -1,6 +1,22 @@
-# <a href="https://www.linkedin.com/in/jeremy-baptiste-69b1372">Jeremy Jean-Baptiste</a>'s IT and Cybersecurity Project Portfolio 🔐
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
 
-Cybersecurity professional with experience in Governance, Risk, and Compliance (GRC) and vulnerability management within healthcare environments. Skilled in risk assessments, vulnerability remediation, policy development, and aligning security controls with regulatory frameworks such as HIPAA, NIST, and ISO 27001. Adept at collaborating with technical and non-technical stakeholders to reduce risk, strengthen security posture, and support patient data confidentiality, integrity, and availability. hbg
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Jeremy+Jean+Baptiste!;" />
+</h1>
+
+
+Cybersecurity professional with experience in Governance, Risk, and Compliance (GRC) and vulnerability management within healthcare environments. Skilled in risk assessments, vulnerability remediation, policy development, and aligning security controls with regulatory frameworks.
+
+I drive Vulnerability Management, GRC Audits, leveraging standards like NIST (800-53)(CSF), ISO 27001, HIPAA.
+
+As a GRC Analyst, I use AWS, Azure, GCP, Tenable to automate governance, risk assessments, and remediation—reducing vulnerabilities and strengthening enterprise defenses.
 
 
 ## ⚠️ Vulnerability Management Projects ⚠️
@@ -11,6 +27,9 @@ Cybersecurity professional with experience in Governance, Risk, and Compliance (
 ## 🚨 Threat Hunting and Security Operations 🚨
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+### 🚨 GRC Analyst 🚨 ###
+- [Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0]
 
 <hr/>
 
