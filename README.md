@@ -28,7 +28,7 @@ As a GRC Analyst, I use AWS, Azure, GCP, Tenable to automate governance, risk as
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-### 🚨 GRC Analyst 🚨 ###
+## 🚨 GRC Analyst 🚨 ##
 - [Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0]
 
 <hr/>
