@@ -22,7 +22,7 @@ As a GRC Analyst, I use AWS, Azure, GCP, Tenable to automate governance, risk as
 ## ⚠️ Vulnerability Management Projects ⚠️
 
 - **[Vulnerability Management Program Implementation](https://github.com/jjean-baptiste/Vulnerability-Managment-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations 🚨
 
